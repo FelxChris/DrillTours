@@ -3,7 +3,7 @@ import { appendRowToSheet } from "@/lib/sheets";
 
 const resend = process.env.RESEND_API_KEY ? new Resend(process.env.RESEND_API_KEY) : null;
 
-const RESERVATION_INBOX = process.env.RESERVATION_INBOX || "DrillTours@gmail.com";
+const RESERVATION_INBOX = process.env.RESERVATION_INBOX || "drilltours@gmail.com";
 
 // IMPORTANT: drilltours.com is owned but NOT yet verified inside Resend (Domains → Add
 // Domain → add the DNS records Resend provides). Until that verification completes, Resend
