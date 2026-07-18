@@ -51,7 +51,7 @@ export default function FestivalBanner() {
               Reserve Merchandise
             </Link>
             <Link
-              href="/reserve?destination=ada"
+              href="/reserve"
               className="inline-flex items-center border border-ivory text-ivory px-6 py-3 text-xs uppercase tracking-widest hover:bg-ivory hover:text-ink transition-colors"
             >
               Book Festival + Tour
