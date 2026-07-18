@@ -4,7 +4,7 @@ const MERCH = [
     name: "T-Shirt",
     desc: "Premium quality cotton unisex T-shirt.",
     price: "GH₵85",
-    image: "/photos/festival/merch-tshirt.jpg",
+    image: "/photos/festival/merch-tshirt.jpg.PNG",
     sizes: ["S", "M", "L", "XL", "XXL"],
   },
   {
@@ -12,7 +12,7 @@ const MERCH = [
     name: "Cap",
     desc: "Classic embroidered unisex cap.",
     price: "GH₵60",
-    image: "/photos/festival/merch-cap.jpg",
+    image: "/photos/festival/merch-cap.jpg.PNG",
     sizes: null,
   },
   {
@@ -20,7 +20,7 @@ const MERCH = [
     name: "T-Shirt + Cap",
     desc: "Get both and rep your clan in style.",
     price: "GH₵130",
-    image: "/photos/festival/merch-bundle.jpg",
+    image: "/photos/festival/merch-bundle.jpg.PNG",
     sizes: ["S", "M", "L", "XL", "XXL"],
     badge: "Best Value",
   },
