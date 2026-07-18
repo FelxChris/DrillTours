@@ -1,0 +1,249 @@
+{
+  "nav": {
+    "about": "About",
+    "destinations": "Destinations",
+    "packages": "Packages",
+    "corporate": "Corporate",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "reserve": "Reserve"
+  },
+  "hero": {
+    "eyebrow": "ACCRA, GHANA — WEST AFRICA",
+    "headline1": "Discover Africa,",
+    "headline2": "beyond the ordinary.",
+    "body": "Culture, history, wildlife, and landscape — curated across the continent by a team that calls it home. Drill Tours builds journeys with the precision of a private office and the warmth of a host who knows the ground.",
+    "cta_tours": "Explore Tours",
+    "cta_reserve": "Make Reservation"
+  },
+  "mission": {
+    "quote": "To connect travelers with authentic African experiences — without compromise on service, safety, or comfort.",
+    "regions": "REGIONS",
+    "packages": "PACKAGE TYPES",
+    "sites": "GHANA SITES"
+  },
+  "packages": {
+    "eyebrow": "THE MANIFEST",
+    "heading": "Eight ways to move through Africa.",
+    "see_all": "See all packages →",
+    "featured_badge": "Aug 2026",
+    "featured_callout": "Featured this season: the Asafotufiami Festival, Ada →",
+    "inquire": "INQUIRE →",
+    "festival_eyebrow": "Featured · Seasonal",
+    "festival_title": "Asafotufiami Festival, Ada",
+    "festival_body": "The Ada people's annual homecoming on the Greater Accra coast — a re-enactment march to Luhuese, traditional drumming and mock battle displays, a grand durbar of chiefs, and beach festivities along the Ada coastline. The 89th edition begins the first week of August 2026.",
+    "festival_cta": "Reserve a spot for the festival →",
+    "items": {
+      "heritage": { "name": "Heritage Tours", "desc": "Castles, forts, and the memory routes of the transatlantic story." },
+      "wildlife": { "name": "Wildlife Safaris", "desc": "Savanna and rainforest game viewing across five regions." },
+      "beach": { "name": "Beach Holidays", "desc": "Gold Coast shoreline retreats, private and curated." },
+      "adventure": { "name": "Adventure Tours", "desc": "Canopy walks, waterfalls, river crossings, hill trekking." },
+      "cultural": { "name": "Cultural Experiences", "desc": "Festivals, craft villages, royal courts, living traditions." },
+      "corporate": { "name": "Corporate Travel", "desc": "Delegations, conferences, and executive logistics." },
+      "educational": { "name": "Educational Excursions", "desc": "Structured itineraries for schools and institutions." },
+      "luxury": { "name": "Luxury Africa Packages", "desc": "Private guiding, premium lodges, bespoke pacing." }
+    }
+  },
+  "corporate": {
+    "eyebrow": "CORPORATE & INSTITUTIONAL",
+    "heading": "Delegations move differently. So do we.",
+    "cta": "Talk to Our Corporate Team",
+    "services": {
+      "conferences": "Conferences",
+      "government": "Government Travel",
+      "ngo": "NGO Logistics",
+      "executive": "Executive Travel",
+      "delegations": "Business Delegations"
+    }
+  },
+  "testimonials": {
+    "eyebrow": "WHAT TO EXPECT",
+    "instagram_cta": "See real trips and traveler stories on Instagram →",
+    "items": [
+      { "quote": "Every detail considered before you have to ask. Delegations move through multiple regions without friction.", "tag": "Corporate & Institutional Travel" },
+      { "quote": "The kind of guiding that disappears — you simply experience the place, fully looked after.", "tag": "Private & Leisure Travel" },
+      { "quote": "Itineraries built with real depth, for groups that need more than a standard tour.", "tag": "Educational & Group Travel" }
+    ]
+  },
+  "video": {
+    "eyebrow": "DRILL TOURS — IN THE FIELD",
+    "heading": "See what a Drill Tours experience actually looks like.",
+    "body": "A brief look at one of Ghana's finest resort destinations, filmed by our team on a recent tour. This is what we mean by curated, on-the-ground experience.",
+    "youtube_cta": "More on YouTube",
+    "video_title": "Drill Tours — Ghana Resort Tour",
+    "video_alt": "Drill Tours resort tour — click to play"
+  },
+  "blog": {
+    "heading": "From the Journal",
+    "view_all": "View all posts →",
+    "read_more": "Read more →",
+    "posts": {
+      "visa": { "title": "Visa Guide: Entering Ghana in 2026", "tag": "Visa Guides" },
+      "gold_coast": { "title": "Five Days on the Gold Coast: A Slow Itinerary", "tag": "Destination Highlights" },
+      "kente": { "title": "Understanding Kente: Cloth, Color, and Meaning", "tag": "African Culture" }
+    }
+  },
+  "faq": {
+    "eyebrow": "BEFORE YOU ASK",
+    "heading": "Frequently asked questions.",
+    "items": [
+      {
+        "q": "Do I need a visa to travel to Ghana?",
+        "a": "Most travelers do — Ghana doesn't offer walk-up visas on arrival for most nationalities. ECOWAS citizens travel visa-free for up to 90 days. Everyone else should plan to apply in advance. See our full visa guide for who needs what and how long it takes."
+      },
+      {
+        "q": "How does the reservation process actually work?",
+        "a": "Submit the reservation form with your dates, destination, and group size — that's a request for availability and pricing, not a confirmed booking yet. A travel designer reviews it and replies, usually within one business day, with a firm itinerary and price. Nothing is charged until you confirm."
+      },
+      {
+        "q": "Can I get a quote before committing to anything?",
+        "a": "Yes — that's exactly what the reservation form does. There's no obligation at the inquiry stage, and you're welcome to ask questions over WhatsApp before submitting anything formal."
+      },
+      {
+        "q": "Do you arrange travel outside Ghana?",
+        "a": "Yes. Ghana is our home ground and where most of our on-the-ground experience is concentrated, but we arrange tours across West, East, Southern, North, and Central Africa."
+      },
+      {
+        "q": "What's included in a tour package price?",
+        "a": "It depends on the package and is confirmed with your specific quote — typically transport, guiding, and entry fees are included, while flights and personal spending usually aren't."
+      },
+      {
+        "q": "Do you handle group, corporate, or institutional travel?",
+        "a": "Yes — conferences, government delegations, NGO logistics, executive travel, and school or institutional excursions are a regular part of what we do."
+      },
+      {
+        "q": "What if I need to change or cancel my trip?",
+        "a": "Cancellation terms vary by package, season, and any third-party suppliers involved. We'll confirm the specific terms that apply once your booking is underway."
+      },
+      {
+        "q": "How quickly will someone get back to me?",
+        "a": "Within one business day for reservation and contact form submissions. For anything urgent, WhatsApp us directly — that gets picked up faster than email."
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Exploring Africa. Creating Experiences. A Ghana-based tourism house serving travelers, institutions, and governments across the continent.",
+    "explore": "Explore",
+    "company": "Company",
+    "connect": "Connect",
+    "copyright": "© 2026 Drill Tours Ltd. All rights reserved.",
+    "address": "26 Lolite Street, Spintex, Accra, Ghana",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "links": {
+      "destinations": "Destinations",
+      "packages": "Tour Packages",
+      "gallery": "Gallery",
+      "reserve": "Reserve",
+      "about": "About Us",
+      "corporate": "Corporate Travel",
+      "journal": "Journal",
+      "contact": "Contact",
+      "instagram": "Instagram",
+      "tripadvisor": "TripAdvisor",
+      "whatsapp": "WhatsApp"
+    }
+  },
+  "reservation": {
+    "eyebrow": "RESERVATION",
+    "heading": "Tell us where, we'll handle how.",
+    "body": "Submit your details and a travel designer will confirm availability and pricing within one business day. For urgent departures, reach us directly on WhatsApp.",
+    "whatsapp_cta": "Reserve via WhatsApp",
+    "submit": "Submit Reservation",
+    "submitting": "Submitting…",
+    "success_heading": "Reservation received.",
+    "success_body": "A travel designer will confirm availability and pricing within one business day.",
+    "another": "Submit another request",
+    "privacy_note": "By submitting, you agree to our",
+    "and": "and",
+    "fields": {
+      "name": "Full Name",
+      "email": "Email",
+      "country": "Country",
+      "phone": "Phone Number",
+      "destination": "Destination",
+      "travelers": "Number of Travelers",
+      "date": "Travel Date",
+      "package": "Package Type",
+      "notes": "Additional Notes",
+      "select_package": "Select a package",
+      "notes_placeholder": "Dietary needs, accessibility, special occasions…",
+      "name_placeholder": "Ama Owusu",
+      "country_placeholder": "Ghana",
+      "phone_placeholder": "+233 …",
+      "destination_placeholder": "e.g. Cape Coast, Ghana"
+    }
+  },
+  "contact": {
+    "heading": "Let's plan it together.",
+    "email_label": "Email",
+    "phone_label": "Phone",
+    "hq_label": "Headquarters",
+    "whatsapp_cta": "WhatsApp Us",
+    "name_label": "Name",
+    "message_label": "Message",
+    "send_cta": "Send Message",
+    "sending": "Sending…",
+    "success_heading": "Message sent.",
+    "another": "Send another message",
+    "name_placeholder": "Your name",
+    "email_placeholder": "you@email.com",
+    "message_placeholder": "How can we help?"
+  },
+  "about": {
+    "eyebrow": "ABOUT DRILL TOURS",
+    "heading": "Cultural heritage. Deeper understanding. Authentic Africa.",
+    "purpose_eyebrow": "OUR PURPOSE",
+    "purpose_heading": "Highlighting Black Significance",
+    "values_heading": "Values"
+  },
+  "brafie": {
+    "eyebrow": "A DRILL TOURS PROGRAMME",
+    "heading": "The Brafie Project",
+    "akan_meaning": "Brafie — to return home.",
+    "body1": "The Brafie Project is a Drill Tours programme that aims to facilitate the return of people of African descent to their ancestral homelands. More than a tour, it is a guided path back — to culture, to community, and to roots.",
+    "body2": "The programme provides practical assistance with citizenship, investment opportunities, and establishing a business presence in Ghana — supporting the diaspora not just to visit, but to belong and to build.",
+    "cta": "Enquire About Brafie",
+    "pillars": {
+      "return": { "heading": "Return", "body": "Facilitating the physical and cultural return of the African diaspora to Ghana and across the continent." },
+      "citizenship": { "heading": "Citizenship", "body": "Guidance on Ghana's Right of Abode programme and the pathways available to people of African descent." },
+      "investment": { "heading": "Investment", "body": "Connecting returning diaspora with real investment and business opportunities in Ghana's growing economy." },
+      "community": { "heading": "Community", "body": "Building lasting connections between the diaspora and local Ghanaian communities, institutions, and leaders." }
+    }
+  },
+  "destinations": {
+    "eyebrow": "OUR GROUND",
+    "heading": "Five regions. One continent.",
+    "regions": {
+      "west": { "name": "West Africa", "note": "Ghana · Senegal · Côte d'Ivoire · Benin", "flagship": true },
+      "east": { "name": "East Africa", "note": "Kenya · Tanzania · Rwanda · Uganda" },
+      "southern": { "name": "Southern Africa", "note": "South Africa · Botswana · Namibia · Zimbabwe" },
+      "north": { "name": "North Africa", "note": "Morocco · Egypt · Tunisia" },
+      "central": { "name": "Central Africa", "note": "Gabon · Cameroon · DR Congo" }
+    },
+    "flagship_badge": "Flagship",
+    "ghana_eyebrow": "OUR HOME GROUND",
+    "ghana_heading": "Ghana, in nine places."
+  },
+  "gallery": {
+    "heading": "Field Notes",
+    "categories": {
+      "all": "All",
+      "ghana": "Ghana",
+      "wildlife": "Wildlife",
+      "culture": "Culture",
+      "adventure": "Adventure"
+    }
+  },
+  "not_found": {
+    "eyebrow": "404",
+    "heading": "This trail doesn't lead anywhere.",
+    "body": "The page you're looking for may have moved, or the link might be outdated. Here's where most people are headed:",
+    "back_home": "← Back to Home"
+  },
+  "common": {
+    "back_home": "← Back to home",
+    "back_journal": "← Back to Journal",
+    "read_more": "Read more →"
+  }
+}

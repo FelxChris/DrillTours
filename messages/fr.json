@@ -1,0 +1,249 @@
+{
+  "nav": {
+    "about": "À propos",
+    "destinations": "Destinations",
+    "packages": "Forfaits",
+    "corporate": "Entreprises",
+    "gallery": "Galerie",
+    "contact": "Contact",
+    "reserve": "Réserver"
+  },
+  "hero": {
+    "eyebrow": "ACCRA, GHANA — AFRIQUE DE L'OUEST",
+    "headline1": "Découvrez l'Afrique,",
+    "headline2": "au-delà de l'ordinaire.",
+    "body": "Culture, histoire, faune et paysages — organisés à travers le continent par une équipe qui y est chez elle. Drill Tours construit des voyages avec la précision d'un bureau privé et la chaleur d'un hôte qui connaît le terrain.",
+    "cta_tours": "Explorer les forfaits",
+    "cta_reserve": "Faire une réservation"
+  },
+  "mission": {
+    "quote": "Connecter les voyageurs à des expériences africaines authentiques — sans compromis sur le service, la sécurité ou le confort.",
+    "regions": "RÉGIONS",
+    "packages": "TYPES DE FORFAITS",
+    "sites": "SITES AU GHANA"
+  },
+  "packages": {
+    "eyebrow": "LE MANIFESTE",
+    "heading": "Huit façons de traverser l'Afrique.",
+    "see_all": "Voir tous les forfaits →",
+    "featured_badge": "Août 2026",
+    "featured_callout": "À la une cette saison : le Festival Asafotufiami, Ada →",
+    "inquire": "DEMANDER →",
+    "festival_eyebrow": "À la une · Saisonnier",
+    "festival_title": "Festival Asafotufiami, Ada",
+    "festival_body": "Le retour annuel du peuple Ada sur la côte de la Grande Accra — une marche de reconstitution vers Luhuese, des tambours traditionnels et des démonstrations de batailles simulées, un grand durbar de chefs, et des festivités sur la plage le long du littoral d'Ada. La 89e édition commence la première semaine d'août 2026.",
+    "festival_cta": "Réserver une place pour le festival →",
+    "items": {
+      "heritage": { "name": "Tours patrimoniaux", "desc": "Châteaux, forts et routes mémorielles de l'histoire transatlantique." },
+      "wildlife": { "name": "Safaris animaliers", "desc": "Observation de la faune en savane et en forêt tropicale dans cinq régions." },
+      "beach": { "name": "Séjours balnéaires", "desc": "Retraites privées et organisées sur le littoral de la Côte d'Or." },
+      "adventure": { "name": "Tours aventure", "desc": "Promenades en canopée, chutes d'eau, traversées de rivières, randonnées en colline." },
+      "cultural": { "name": "Expériences culturelles", "desc": "Festivals, villages artisanaux, cours royales, traditions vivantes." },
+      "corporate": { "name": "Voyage d'affaires", "desc": "Délégations, conférences et logistique exécutive." },
+      "educational": { "name": "Excursions éducatives", "desc": "Itinéraires structurés pour les écoles et les institutions." },
+      "luxury": { "name": "Forfaits luxe Afrique", "desc": "Guides privés, lodges premium, rythme sur mesure." }
+    }
+  },
+  "corporate": {
+    "eyebrow": "ENTREPRISES ET INSTITUTIONS",
+    "heading": "Les délégations voyagent différemment. Nous aussi.",
+    "cta": "Parler à notre équipe entreprise",
+    "services": {
+      "conferences": "Conférences",
+      "government": "Voyages gouvernementaux",
+      "ngo": "Logistique ONG",
+      "executive": "Voyages exécutifs",
+      "delegations": "Délégations d'affaires"
+    }
+  },
+  "testimonials": {
+    "eyebrow": "CE À QUOI S'ATTENDRE",
+    "instagram_cta": "Voir de vrais voyages et témoignages sur Instagram →",
+    "items": [
+      { "quote": "Chaque détail pris en compte avant même que vous ayez à demander. Les délégations traversent plusieurs régions sans accroc.", "tag": "Voyages d'entreprise et institutionnels" },
+      { "quote": "Le type d'accompagnement qui s'efface — vous vivez simplement l'expérience, pleinement pris en charge.", "tag": "Voyage privé et loisirs" },
+      { "quote": "Des itinéraires conçus avec une vraie profondeur, pour des groupes qui ont besoin de plus qu'une visite standard.", "tag": "Voyages éducatifs et de groupe" }
+    ]
+  },
+  "video": {
+    "eyebrow": "DRILL TOURS — SUR LE TERRAIN",
+    "heading": "Voyez à quoi ressemble vraiment une expérience Drill Tours.",
+    "body": "Un aperçu de l'une des plus belles destinations de villégiature du Ghana, filmé par notre équipe lors d'un récent circuit. C'est ce que nous entendons par expérience organisée sur le terrain.",
+    "youtube_cta": "Plus sur YouTube",
+    "video_title": "Drill Tours — Tour de resort au Ghana",
+    "video_alt": "Tour de resort Drill Tours — cliquez pour lire"
+  },
+  "blog": {
+    "heading": "Du Journal",
+    "view_all": "Voir tous les articles →",
+    "read_more": "Lire la suite →",
+    "posts": {
+      "visa": { "title": "Guide Visa : Entrer au Ghana en 2026", "tag": "Guides Visa" },
+      "gold_coast": { "title": "Cinq jours sur la Côte d'Or : Un itinéraire lent", "tag": "Points forts des destinations" },
+      "kente": { "title": "Comprendre le Kente : Tissu, Couleur et Signification", "tag": "Culture africaine" }
+    }
+  },
+  "faq": {
+    "eyebrow": "AVANT DE DEMANDER",
+    "heading": "Questions fréquemment posées.",
+    "items": [
+      {
+        "q": "Ai-je besoin d'un visa pour voyager au Ghana ?",
+        "a": "La plupart des voyageurs en ont besoin — le Ghana n'offre pas de visa à l'arrivée pour la plupart des nationalités. Les citoyens de la CEDEAO voyagent sans visa jusqu'à 90 jours. Les autres doivent prévoir de faire une demande à l'avance. Consultez notre guide complet des visas."
+      },
+      {
+        "q": "Comment fonctionne concrètement le processus de réservation ?",
+        "a": "Soumettez le formulaire de réservation avec vos dates, votre destination et la taille de votre groupe — c'est une demande de disponibilité et de prix, pas encore une réservation confirmée. Un concepteur de voyages l'examine et répond généralement dans la journée ouvrable avec un itinéraire et un prix fermes. Rien n'est facturé avant votre confirmation."
+      },
+      {
+        "q": "Puis-je obtenir un devis sans m'engager ?",
+        "a": "Oui — c'est exactement ce que fait le formulaire de réservation. Il n'y a aucune obligation au stade de la demande, et vous êtes libre de poser des questions sur WhatsApp avant de soumettre quoi que ce soit de formel."
+      },
+      {
+        "q": "Organisez-vous des voyages en dehors du Ghana ?",
+        "a": "Oui. Le Ghana est notre terrain de prédilection, mais nous organisons des circuits en Afrique de l'Ouest, de l'Est, Australe, du Nord et Centrale."
+      },
+      {
+        "q": "Qu'est-ce qui est inclus dans le prix d'un forfait ?",
+        "a": "Cela dépend du forfait et est confirmé avec votre devis spécifique — en général, le transport, le guide et les droits d'entrée sont inclus, mais pas les vols ni les dépenses personnelles."
+      },
+      {
+        "q": "Gérez-vous les voyages de groupe, d'entreprise ou institutionnels ?",
+        "a": "Oui — conférences, délégations gouvernementales, logistique ONG, voyages exécutifs et excursions scolaires ou institutionnelles font régulièrement partie de notre travail."
+      },
+      {
+        "q": "Que faire si je dois modifier ou annuler mon voyage ?",
+        "a": "Les conditions d'annulation varient selon le forfait, la saison et les prestataires tiers impliqués. Nous confirmerons les conditions applicables une fois votre réservation en cours."
+      },
+      {
+        "q": "Dans quel délai quelqu'un me répondra-t-il ?",
+        "a": "Dans un jour ouvrable pour les soumissions de formulaires de réservation et de contact. Pour toute urgence, contactez-nous directement sur WhatsApp — c'est plus rapide que l'e-mail."
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Explorer l'Afrique. Créer des expériences. Une maison de tourisme basée au Ghana au service des voyageurs, des institutions et des gouvernements à travers le continent.",
+    "explore": "Explorer",
+    "company": "Entreprise",
+    "connect": "Contact",
+    "copyright": "© 2026 Drill Tours Ltd. Tous droits réservés.",
+    "address": "26 Lolite Street, Spintex, Accra, Ghana",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "links": {
+      "destinations": "Destinations",
+      "packages": "Forfaits touristiques",
+      "gallery": "Galerie",
+      "reserve": "Réserver",
+      "about": "À propos",
+      "corporate": "Voyages d'affaires",
+      "journal": "Journal",
+      "contact": "Contact",
+      "instagram": "Instagram",
+      "tripadvisor": "TripAdvisor",
+      "whatsapp": "WhatsApp"
+    }
+  },
+  "reservation": {
+    "eyebrow": "RÉSERVATION",
+    "heading": "Dites-nous où, nous nous occupons du reste.",
+    "body": "Soumettez vos coordonnées et un concepteur de voyages confirmera la disponibilité et les tarifs dans un délai d'un jour ouvrable. Pour les départs urgents, contactez-nous directement sur WhatsApp.",
+    "whatsapp_cta": "Réserver via WhatsApp",
+    "submit": "Soumettre la réservation",
+    "submitting": "Envoi en cours…",
+    "success_heading": "Réservation reçue.",
+    "success_body": "Un concepteur de voyages confirmera la disponibilité et les tarifs dans un délai d'un jour ouvrable.",
+    "another": "Soumettre une autre demande",
+    "privacy_note": "En soumettant, vous acceptez notre",
+    "and": "et",
+    "fields": {
+      "name": "Nom complet",
+      "email": "E-mail",
+      "country": "Pays",
+      "phone": "Numéro de téléphone",
+      "destination": "Destination",
+      "travelers": "Nombre de voyageurs",
+      "date": "Date de voyage",
+      "package": "Type de forfait",
+      "notes": "Notes supplémentaires",
+      "select_package": "Choisir un forfait",
+      "notes_placeholder": "Besoins alimentaires, accessibilité, occasions spéciales…",
+      "name_placeholder": "Ama Owusu",
+      "country_placeholder": "Ghana",
+      "phone_placeholder": "+233 …",
+      "destination_placeholder": "ex. Cape Coast, Ghana"
+    }
+  },
+  "contact": {
+    "heading": "Planifions-le ensemble.",
+    "email_label": "E-mail",
+    "phone_label": "Téléphone",
+    "hq_label": "Siège social",
+    "whatsapp_cta": "WhatsApp",
+    "name_label": "Nom",
+    "message_label": "Message",
+    "send_cta": "Envoyer le message",
+    "sending": "Envoi…",
+    "success_heading": "Message envoyé.",
+    "another": "Envoyer un autre message",
+    "name_placeholder": "Votre nom",
+    "email_placeholder": "vous@email.com",
+    "message_placeholder": "Comment pouvons-nous vous aider ?"
+  },
+  "about": {
+    "eyebrow": "À PROPOS DE DRILL TOURS",
+    "heading": "Patrimoine culturel. Compréhension approfondie. Afrique authentique.",
+    "purpose_eyebrow": "NOTRE MISSION",
+    "purpose_heading": "Mettre en valeur la signification noire",
+    "values_heading": "Valeurs"
+  },
+  "brafie": {
+    "eyebrow": "UN PROGRAMME DRILL TOURS",
+    "heading": "Le Projet Brafie",
+    "akan_meaning": "Brafie — retourner chez soi.",
+    "body1": "Le Projet Brafie est un programme de Drill Tours qui vise à faciliter le retour des personnes d'origine africaine vers leurs terres ancestrales. Plus qu'un circuit, c'est un chemin guidé vers le retour — à la culture, à la communauté et aux racines.",
+    "body2": "Le programme fournit une assistance pratique pour la citoyenneté, les opportunités d'investissement et l'établissement d'une présence commerciale au Ghana — soutenant la diaspora non seulement à visiter, mais à appartenir et à construire.",
+    "cta": "Se renseigner sur Brafie",
+    "pillars": {
+      "return": { "heading": "Retour", "body": "Faciliter le retour physique et culturel de la diaspora africaine au Ghana et à travers le continent." },
+      "citizenship": { "heading": "Citoyenneté", "body": "Orientation sur le programme Droit de résidence du Ghana et les voies disponibles pour les personnes d'origine africaine." },
+      "investment": { "heading": "Investissement", "body": "Mettre en relation la diaspora de retour avec de vraies opportunités d'investissement et d'affaires dans l'économie en pleine croissance du Ghana." },
+      "community": { "heading": "Communauté", "body": "Tisser des liens durables entre la diaspora et les communautés, institutions et leaders locaux ghanéens." }
+    }
+  },
+  "destinations": {
+    "eyebrow": "NOTRE TERRAIN",
+    "heading": "Cinq régions. Un continent.",
+    "regions": {
+      "west": { "name": "Afrique de l'Ouest", "note": "Ghana · Sénégal · Côte d'Ivoire · Bénin", "flagship": true },
+      "east": { "name": "Afrique de l'Est", "note": "Kenya · Tanzanie · Rwanda · Ouganda" },
+      "southern": { "name": "Afrique Australe", "note": "Afrique du Sud · Botswana · Namibie · Zimbabwe" },
+      "north": { "name": "Afrique du Nord", "note": "Maroc · Égypte · Tunisie" },
+      "central": { "name": "Afrique Centrale", "note": "Gabon · Cameroun · RD Congo" }
+    },
+    "flagship_badge": "Phare",
+    "ghana_eyebrow": "NOTRE TERRAIN D'ACCUEIL",
+    "ghana_heading": "Le Ghana, en neuf lieux."
+  },
+  "gallery": {
+    "heading": "Notes de terrain",
+    "categories": {
+      "all": "Tout",
+      "ghana": "Ghana",
+      "wildlife": "Faune",
+      "culture": "Culture",
+      "adventure": "Aventure"
+    }
+  },
+  "not_found": {
+    "eyebrow": "404",
+    "heading": "Ce sentier ne mène nulle part.",
+    "body": "La page que vous recherchez a peut-être été déplacée, ou le lien est obsolète. Voici où la plupart des gens se rendent :",
+    "back_home": "← Retour à l'accueil"
+  },
+  "common": {
+    "back_home": "← Retour à l'accueil",
+    "back_journal": "← Retour au Journal",
+    "read_more": "Lire la suite →"
+  }
+}

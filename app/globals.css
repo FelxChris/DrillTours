@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: #0f0f0f;
+  color: #faf8f3;
+}
+
+::selection {
+  background: #f2b705;
+  color: #0f0f0f;
+}
+
+/* Keyboard focus: visible gold ring on every interactive element, but only
+   when navigating by keyboard (not on mouse click) — :focus-visible avoids
+   showing the ring after every mouse click while keeping it for Tab users,
+   screen-magnifier users, and anyone else not pointing with a mouse. */
+a:focus-visible,
+button:focus-visible,
+input:focus-visible,
+select:focus-visible,
+textarea:focus-visible {
+  outline: 2px solid #f2b705;
+  outline-offset: 3px;
+  border-radius: 1px;
+}
+
+.cdt-rule {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(242, 183, 5, 0.35), transparent);
+}
+
+.cdt-field {
+  width: 100%;
+  background: transparent;
+  border: none;
+  border-bottom: 1px solid #3a3a3a;
+  padding: 12px 2px;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.cdt-field:focus {
+  border-color: #f2b705;
+}
+
+/* cdt-field already has its own focus treatment (the border color change
+   above) which is sufficient for visibility, so suppress the outline ring
+   specifically here to avoid a doubled-up look on form inputs. */
+.cdt-field:focus-visible {
+  outline: none;
+}
+
+.cdt-label {
+  font-family: var(--font-plex-mono), monospace;
+  font-size: 10.5px;
+  letter-spacing: 1.5px;
+  text-transform: uppercase;
+  color: #8a8a8a;
+  display: block;
+  margin-bottom: 6px;
+}

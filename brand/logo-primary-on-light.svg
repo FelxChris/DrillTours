@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 420" width="800" height="420">
+  <rect width="800" height="420" fill="#FAF8F3"/>
+  <g transform="translate(40, 20)">
+    <path d="M 50 220 L 195 30 L 238 84 L 220 90 L 232 102 L 213 110 L 255 220 Z" fill="#E5302F"/>
+    <path d="M 195 220 L 300 90 L 356 164 L 337 169 L 348 180 L 329 187 L 360 220 Z" fill="#D62A2A"/>
+    <path d="M 340 220 L 478 8 L 538 87 L 518 93 L 530 106 L 510 114 L 555 220 Z" fill="#F2B705"/>
+    <path d="M 510 220 L 612 108 L 658 169 L 639 173 L 648 185 L 630 192 L 665 220 Z" fill="#1E8A3C"/>
+    <path d="M 58 220 L 195 38 L 234 84 L 217 90 L 228 102 L 210 109 L 248 220 Z" fill="#0A0A0A"/>
+    <path d="M 202 220 L 300 98 L 350 164 L 332 169 L 343 180 L 325 186 L 353 220 Z" fill="#0A0A0A"/>
+    <path d="M 347 220 L 478 16 L 532 87 L 513 93 L 525 106 L 506 113 L 548 220 Z" fill="#0A0A0A"/>
+    <path d="M 517 220 L 612 116 L 652 169 L 634 173 L 643 185 L 626 191 L 658 220 Z" fill="#0A0A0A"/>
+    <rect x="40" y="270" width="640" height="90" rx="28" fill="#0A0A0A"/>
+    <text x="65" y="333" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="400" fill="#FFFFFF">Drill<tspan font-weight="800">TOURS</tspan></text>
+  </g>
+</svg>
