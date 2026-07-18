@@ -51,7 +51,7 @@ export default function FestivalBanner() {
               Reserve Merchandise
             </Link>
             <Link
-              href="/reserve?destination=Asafotufiami+Festival%2C+Ada&pkg=Cultural+Experiences&notes=Interested+in+the+Rep+Your+Clan+Concert%2C+1+Aug+2026."
+              href="/reserve?destination=ada"
               className="inline-flex items-center border border-ivory text-ivory px-6 py-3 text-xs uppercase tracking-widest hover:bg-ivory hover:text-ink transition-colors"
             >
               Book Festival + Tour
