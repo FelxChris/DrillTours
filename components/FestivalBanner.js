@@ -57,7 +57,7 @@ export default function FestivalBanner() {
               Book Festival + Tour
             </Link>
             <Link
-              href="/festival/asafotufiami-2026"
+              href="/reserve"
               className="inline-flex items-center text-xs uppercase tracking-widest text-neutral-400 hover:text-ivory transition-colors px-2 py-3"
             >
               Learn More →
