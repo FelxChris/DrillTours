@@ -39,13 +39,13 @@ export default function FestivalMerch() {
       <div className="max-w-[1240px] mx-auto px-8">
         <div className="max-w-[600px] mb-12">
           <div className="font-mono text-[11px] tracking-[2px] text-forest mb-4 uppercase">
-            Official Festival Gear
+            Ada Rep Your Clan Gear
           </div>
           <h2 className="font-display text-[clamp(28px,3.6vw,38px)] leading-tight">
             Show your pride. Order ahead.
           </h2>
           <p className="mt-4 text-[14.5px] text-neutral-600 leading-relaxed">
-            Official Asafotufiami Festival 2026 T-shirts and caps, reserved in advance for
+           RepYourClan Asafotufiami Festival 2026 T-shirts and caps, reserved in advance for
             pickup at the venue — no shipping, no waiting in line on the day.
           </p>
         </div>
